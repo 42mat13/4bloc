@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>4images</title>
+	<link rel="stylesheet" text="text/css"  href="7.2mat.css">
+</head>
+<body>
+<img id="img1" src="chatlogo.jpg" />
+<h1>Miaouu</h1>
+<input type="text" name="usrname">
+<div id="bouton"> <p id="home">home</p>
+</div>
+		<div id="deuxtop">
+			<div id="bloc1"><img id="img2"src="chtarwars.jpeg" />
+			</div>
+			<div id="bloc2">
+				<div id="blabla">
+					<p>blablabla</p>
+					<p><em>blablabla</em></p>
+					<p><strong>blablablaaa</strong></p>
+				</div>
+			</div>
+		</div>
+		<div id="deuxbot">
+			<div id="bloc3"><iframe id="video" src="https://www.youtube.com/embed/iyjL-qSriiY" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<div id="bloc4"><img id="img3"src="chatlogo2.jpeg">
+			</div>
+		</div>
+<ul>
+	<li><a href="#">lien1</a></li>
+	<li><a href="#">lien2</a></li>
+	<li><a href="#">lien3</a></li>
+	<li><a href="#">lien4</a></li>
+</ul>
+<p id="last">@copyright hmathieu</p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Logo</title>
+			<link rel="" href="4div.css"
+
+		</head>
+		<body>
+			<div id="block1">BLOC 1</div>
+			<div id="blocs2">BLOC 2</div>
+		</body>
+	</html>
